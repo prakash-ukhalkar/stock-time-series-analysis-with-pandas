@@ -1,10 +1,10 @@
-# 📈 Stock Market Time Series Analysis with Pandas
+# Stock Market Time Series Analysis with Pandas
 
 | Project Status | License | Environment |
 | :--- | :--- | :--- |
 | **Active Development** | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) |
 
-## 🌟 Introduction & Project Vision
+## Introduction & Project Vision
 
 Welcome to **`stock-time-series-analysis-with-pandas`**!
 
@@ -19,7 +19,7 @@ This repository serves as a **beginner-to-intermediate friendly, step-by-step gu
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The project is organized as a sequential learning path via Jupyter Notebooks.
 
@@ -58,7 +58,8 @@ To run the notebooks locally, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/prakash-ukhalkar/stock-time-series-analysis-with-pandas.git](https://github.com/prakash-ukhalkar/stock-time-series-analysis-with-pandas.git)
+    git clone https://github.com/prakash-ukhalkar/stock-time-series-analysis-with-pandas.git
+    
     cd stock-time-series-analysis-with-pandas
     ```
 
@@ -117,11 +118,21 @@ The core libraries used are:
 
 ---
 
-## License
+#### Contributions
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+Contributions are welcome! If you'd like to improve examples, add topics, or fix something, feel free to open a pull request.
 
-This video provides an excellent visual guide on structuring a high-quality `README.md` for data science projects, emphasizing clarity and comprehensive documentation for future users.
+Happy Learning!
 
-[How to Write a Good README for Your Data Science Project on GitHub](https://www.youtube.com/watch?v=RDrZHJa1raw)
-http://googleusercontent.com/youtube_content/0
+---
+
+## Author
+
+**stock-time-series-analysis-with-pandas** is created and maintained by [**Prakash Ukhalkar**](https://github.com/prakash-ukhalkar)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ for the Python community</sub>
+</div>
+
